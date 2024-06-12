@@ -1,0 +1,3 @@
+[submodule "dreamerv3-torch-submod"]
+	path = dreamerv3-torch-submod
+	url = git@github.com:alaliqing/dreamerv3-torch.git
