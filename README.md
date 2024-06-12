@@ -1,4 +1,4 @@
-# Reinforcement Learning for Controlled Traffic Rule Exceptions
+# Informed Reinforcement Learning for Situation-Aware Traffic Rule Exceptions
 
 The project uses DreamerV3 to train self-driving cars for motion planning in anomaly traffic rule exception scenarios based on the Carla environment.
 
@@ -96,4 +96,11 @@ Explanation:
 ## Citation
 
 If you found our work useful, please cite our paper:
-
+```
+@inproceedings{bogdoll2024informed,
+      title={Informed Reinforcement Learning for Situation-Aware Traffic Rule Exceptions}, 
+      author={Daniel Bogdoll and Jing Qin and Moritz Nekolla and Ahmed Abouelazm and Tim Joseph and J. Marius Zöllner},
+      year={2024},
+      booktitle={IEEE International Conference on Robotics and Automation (ICRA)}
+}
+```
