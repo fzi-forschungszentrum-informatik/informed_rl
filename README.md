@@ -1,6 +1,6 @@
 # Informed Reinforcement Learning for Situation-Aware Traffic Rule Exceptions
 
-The project uses DreamerV3 to train self-driving cars for motion planning in anomaly traffic rule exception scenarios based on the Carla environment.
+In this work, we introduce Informed Reinforcement Learning, where a structured rulebook is integrated as a knowledge source. We learn trajectories and asses them with a situation-aware reward design, leading to a dynamic reward that allows the agent to learn situations that require controlled traffic rule exceptions. Our method is applicable to arbitrary RL models. We successfully demonstrate high completion rates of complex scenarios with recent model-based agents.
 
 ## Table of Contents
 
