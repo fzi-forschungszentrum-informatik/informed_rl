@@ -32,13 +32,13 @@ Follow these steps to get a development environment running :
 1. Clone the repository:
 
     ```
-    git clone git@github.com:daniel-bogdoll/rl_rule_deviations.git
+    git clone git@github.com:fzi-forschungszentrum-informatik/informed_rl.git
     ```
 
 2. Navigate to the cloned directory and install the required dependencies:
 
     ```
-    cd rl_rule_deviations/dreamerv3-torch
+    cd informed_rl/dreamerv3-torch
     pip install --upgrade pip
     pip install -r requirements.txt
     ```
@@ -61,7 +61,7 @@ you could use python virtual environment: `python -m venv env`
 
 Here is the basic code structure of this repository.
 ```
-rl_rule_deviation
+informed_rl
 │
 ├── dreamer3-torch/
 │ ├── exploration.py
